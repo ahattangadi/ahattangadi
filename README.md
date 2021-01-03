@@ -15,6 +15,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
+1. ❌ Reopened PR [#3](https://github.com/Cybertrek2411/Website-CyberTrek/pull/3) in [Cybertrek2411/Website-CyberTrek](https://github.com/Cybertrek2411/Website-CyberTrek)
+2. ❌ Closed PR [#3](https://github.com/Cybertrek2411/Website-CyberTrek/pull/3) in [Cybertrek2411/Website-CyberTrek](https://github.com/Cybertrek2411/Website-CyberTrek)
+3. 💪 Opened PR [#3](https://github.com/Cybertrek2411/Website-CyberTrek/pull/3) in [Cybertrek2411/Website-CyberTrek](https://github.com/Cybertrek2411/Website-CyberTrek)
+4. ❌ Closed PR [#2](https://github.com/Cybertrek2411/Website-CyberTrek/pull/2) in [Cybertrek2411/Website-CyberTrek](https://github.com/Cybertrek2411/Website-CyberTrek)
+5. 💪 Opened PR [#2](https://github.com/Cybertrek2411/Website-CyberTrek/pull/2) in [Cybertrek2411/Website-CyberTrek](https://github.com/Cybertrek2411/Website-CyberTrek)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
