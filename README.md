@@ -13,14 +13,8 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-### Recent Activity
-<!--START_SECTION:activity-->
-1. ❌ Reopened PR [#3](https://github.com/Cybertrek2411/Website-CyberTrek/pull/3) in [Cybertrek2411/Website-CyberTrek](https://github.com/Cybertrek2411/Website-CyberTrek)
-2. ❌ Closed PR [#3](https://github.com/Cybertrek2411/Website-CyberTrek/pull/3) in [Cybertrek2411/Website-CyberTrek](https://github.com/Cybertrek2411/Website-CyberTrek)
-3. 💪 Opened PR [#3](https://github.com/Cybertrek2411/Website-CyberTrek/pull/3) in [Cybertrek2411/Website-CyberTrek](https://github.com/Cybertrek2411/Website-CyberTrek)
-4. ❌ Closed PR [#2](https://github.com/Cybertrek2411/Website-CyberTrek/pull/2) in [Cybertrek2411/Website-CyberTrek](https://github.com/Cybertrek2411/Website-CyberTrek)
-5. 💪 Opened PR [#2](https://github.com/Cybertrek2411/Website-CyberTrek/pull/2) in [Cybertrek2411/Website-CyberTrek](https://github.com/Cybertrek2411/Website-CyberTrek)
-<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### GitHub Stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=AaravHattangadi)](https://github.com/anuraghazra/github-readme-stats)
