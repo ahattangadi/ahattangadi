@@ -2,7 +2,7 @@
 I'm Aarav!
 
 # 👨‍💻 About Me
-🔭 I'm currently a student<br>📚 I'm currently learning backend development<br>🌱 I'm currently working on SentryVision
+🔭 I'm currently a student<br>📚 I'm currently learning backend development<br>🌱 I'm currently working on <a href="https://github.com/ahattangadi/SentryVision">SentryVision</a>
 
 
 # 💻 Tech Stack:
